@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="none" viewBox="0 0 45 45">
+  <g clip-path="url(#a)" filter="url(#b)">
+    <path fill="#fff" d="M22.5 39.628 5.625 26.503l3.037-2.362 13.82 10.743 13.837-10.762 3.056 2.381L22.5 39.628Zm0-8.006L8.681 20.878l-3.056-2.381L22.5 5.372l16.875 13.125-3.075 2.381-13.8 10.744Z"/>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h45v45H0z"/>
+    </clipPath>
+    <filter id="b" width="41.75" height="42.256" x="4.625" y="4.372" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix values="0 0 0 0 0.752941 0 0 0 0 0.752941 0 0 0 0 0.752941 0 0 0 0.25 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_11_301"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_11_301" result="shape"/>
+    </filter>
+  </defs>
+</svg>
